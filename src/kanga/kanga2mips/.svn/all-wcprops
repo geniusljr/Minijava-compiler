@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/kanga2mips
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/kanga2mips/Console.java
+END
+KangaMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/kanga2mips/KangaMain.java
+END
+KType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/kanga2mips/KType.java
+END
+TranslateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/kanga2mips/TranslateVisitor.java
+END

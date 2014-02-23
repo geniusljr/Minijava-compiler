@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck
+END
+BuildSymbolTableVisitorExtra.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/BuildSymbolTableVisitorExtra.java
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/Console.java
+END
+TypecheckMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/TypecheckMain.java
+END
+CheckOverloadVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/CheckOverloadVisitor.java
+END
+CheckUndefineVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/CheckUndefineVisitor.java
+END
+BuildSymbolTableVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/BuildSymbolTableVisitor.java
+END
+TypeCheckingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/TypeCheckingVisitor.java
+END
+Judge.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/typecheck/Judge.java
+END

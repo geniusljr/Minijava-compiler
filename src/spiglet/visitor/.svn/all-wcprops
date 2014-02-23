@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor
+END
+GJVoidDepthFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJVoidDepthFirst.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/Visitor.java
+END
+GJVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJVisitor.java
+END
+GJVoidVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJVoidVisitor.java
+END
+GJNoArguDepthFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJNoArguDepthFirst.java
+END
+DepthFirstVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/DepthFirstVisitor.java
+END
+GJNoArguVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJNoArguVisitor.java
+END
+GJDepthFirst.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/visitor/GJDepthFirst.java
+END

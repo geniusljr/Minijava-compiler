@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/minijava2piglet
+END
+PigletVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/minijava2piglet/PigletVisitor.java
+END
+PigletMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/minijava2piglet/PigletMain.java
+END
+Translate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/minijava2piglet/Translate.java
+END
+BuildOffsetTableVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/minijava2piglet/BuildOffsetTableVisitor.java
+END

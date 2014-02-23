@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/IntegerType.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Expression.java
+END
+TimesExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/TimesExpression.java
+END
+NodeListInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeListInterface.java
+END
+PlusExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/PlusExpression.java
+END
+PrimaryExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/PrimaryExpression.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Statement.java
+END
+ClassExtendsDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ClassExtendsDeclaration.java
+END
+CompareExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/CompareExpression.java
+END
+FalseLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/FalseLiteral.java
+END
+ArrayLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ArrayLookup.java
+END
+MinusExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/MinusExpression.java
+END
+ClassDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ClassDeclaration.java
+END
+FormalParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/FormalParameterList.java
+END
+FormalParameterRest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/FormalParameterRest.java
+END
+FormalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/FormalParameter.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeList.java
+END
+PrintStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/PrintStatement.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Identifier.java
+END
+IfStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/IfStatement.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Node.java
+END
+MethodDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/MethodDeclaration.java
+END
+TypeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/TypeDeclaration.java
+END
+TrueLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/TrueLiteral.java
+END
+AssignmentStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/AssignmentStatement.java
+END
+NodeChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeChoice.java
+END
+ArrayAllocationExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ArrayAllocationExpression.java
+END
+AllocationExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/AllocationExpression.java
+END
+MainClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/MainClass.java
+END
+IntegerLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/IntegerLiteral.java
+END
+NodeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeSequence.java
+END
+ArrayLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ArrayLength.java
+END
+ArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ArrayType.java
+END
+NotExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NotExpression.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/BooleanType.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Type.java
+END
+Goal.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Goal.java
+END
+AndExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/AndExpression.java
+END
+NodeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeToken.java
+END
+NodeListOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeListOptional.java
+END
+ThisExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ThisExpression.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/Block.java
+END
+ExpressionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ExpressionList.java
+END
+BracketExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/BracketExpression.java
+END
+NodeOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/NodeOptional.java
+END
+ArrayAssignmentStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ArrayAssignmentStatement.java
+END
+ExpressionRest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/ExpressionRest.java
+END
+WhileStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/WhileStatement.java
+END
+MessageSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/MessageSend.java
+END
+VarDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/minijava/syntaxtree/VarDeclaration.java
+END

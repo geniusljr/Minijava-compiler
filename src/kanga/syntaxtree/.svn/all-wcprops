@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree
+END
+NodeListInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeListInterface.java
+END
+SimpleExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/SimpleExp.java
+END
+PassArgStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/PassArgStmt.java
+END
+Reg.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Reg.java
+END
+MoveStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/MoveStmt.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeList.java
+END
+NoOpStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NoOpStmt.java
+END
+CallStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/CallStmt.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Node.java
+END
+SpilledArg.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/SpilledArg.java
+END
+CJumpStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/CJumpStmt.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Operator.java
+END
+Exp.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Exp.java
+END
+HAllocate.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/HAllocate.java
+END
+HLoadStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/HLoadStmt.java
+END
+NodeChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeChoice.java
+END
+ErrorStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/ErrorStmt.java
+END
+PrintStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/PrintStmt.java
+END
+AStoreStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/AStoreStmt.java
+END
+BinOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/BinOp.java
+END
+IntegerLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/IntegerLiteral.java
+END
+HStoreStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/HStoreStmt.java
+END
+NodeSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeSequence.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Label.java
+END
+Goal.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Goal.java
+END
+JumpStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/JumpStmt.java
+END
+StmtList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/StmtList.java
+END
+NodeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeToken.java
+END
+NodeListOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeListOptional.java
+END
+Stmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Stmt.java
+END
+Procedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/Procedure.java
+END
+ALoadStmt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/ALoadStmt.java
+END
+NodeOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/kanga/syntaxtree/NodeOptional.java
+END

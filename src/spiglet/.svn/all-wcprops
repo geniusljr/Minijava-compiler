@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet
+END
+SpigletParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/SpigletParserTokenManager.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/TokenMgrError.java
+END
+SpigletParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/SpigletParserConstants.java
+END
+SpigletParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/SpigletParser.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/ParseException.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/JavaCharStream.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga
+END
+FlowGraphNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/FlowGraphNode.java
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/Console.java
+END
+MString.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/MString.java
+END
+AllFlowGraphs.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/AllFlowGraphs.java
+END
+NewMType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/NewMType.java
+END
+BuildFlowGraphVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/BuildFlowGraphVisitor.java
+END
+FlowGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/FlowGraph.java
+END
+MyVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/MyVariable.java
+END
+SpigletMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/SpigletMain.java
+END
+TranslateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/CompilerCourseTemplate/src/spiglet/spiglet2kanga/TranslateVisitor.java
+END
